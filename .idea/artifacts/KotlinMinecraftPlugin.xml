@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KotlinMinecraftPlugin">
+    <output-path>D:/plugin/SERVER/Plugin_Test_Server/plugins</output-path>
+    <root id="archive" name="KotlinMinecraftPlugin.jar">
+      <element id="module-output" name="KotlinMinecraftPlugin.main" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>
